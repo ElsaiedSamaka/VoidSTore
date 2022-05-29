@@ -2,7 +2,7 @@
 > Build a E-commerce Full Stack with Nextjs + Mongodb + React Hook + Bootstrap 4
 > Instructions on how to use nextjs in conjunction with mongodb to build a basic e-commerce website.
 
-## Demo: https://nextjs-ecommerce-six.vercel.app/
+## Demo: https://samaka-st-ore.vercel.app/?search=all
 
 ## Install dependencies 
 ### `npm install`
