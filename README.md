@@ -25,5 +25,8 @@ CLOUD_API="cloudinary://>>>>>>>>>>>>>>>>>>>>>jENWtW5NFDJVwADzE@dbolkzi38"
 ### `npm run dev`
 
 
-### User interface 
+### TODO 
+1. setup i18n and rtl support
+2. add dark theme
+
 
