@@ -15,8 +15,8 @@ PAYPAL_CLIENT_ID="AUrwURNjasadseUb9N-gYKaesciAf1IolsL83ehpIQn3_eBUo9yUvrIR3NP_KG
 CLOUD_UPDATE_PRESET="SamaKaSTore Presist"
 CLOUD_NAME="dbolkzi3812"
 CLOUD_API="cloudinary://>>>>>>>>>>>>>>>>>>>>>jENWtW5NFDJVwADzE@dbolkzi38"
-# sb-ifos716112322@personal.example.com
-# EkA5VPj@
+
+
 
 
 ## Connect to your mongodb and add info in next.config.js
@@ -27,10 +27,3 @@ CLOUD_API="cloudinary://>>>>>>>>>>>>>>>>>>>>>jENWtW5NFDJVwADzE@dbolkzi38"
 
 ### User interface 
 
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1610956436/nextjs_media/2_dgx2op.png)
-
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1610956526/nextjs_media/3_dkmrq1.png)
-
-### Admin interface 
-
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1610956354/nextjs_media/Untitled_axeubb.png)
