@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    BASE_URL: "http://localhost:3000",
+    BASE_URL: "https://samaka-st-ore.vercel.app",
     MONGODB_URL:
       "mongodb+srv://Saied123:Saied123@cluster0.lmfdza2.mongodb.net/SamaKaSTore?retryWrites=true&w=majority",
     ACCESS_TOKEN_SECRET: "TRhG>R'rN[q$Ut6^",
